@@ -18,7 +18,7 @@ I am a business bachelor currently working in Macau as a law firm manager, and d
 
 - Learning Python for data analytics.
 - Exploring the ins and outs of SQL databases.
-- Develop visualizations for Tableau Public projects.
+- Developing visualizations for Tableau Public projects.
 
  ## 🏆 Achievements
 
