@@ -4,7 +4,7 @@ I am a business bachelor, currently working in Macau as a law firm manager, and 
 
 ![amiguelnobrega's Stats](https://github-readme-stats.vercel.app/api?username=amiguelnobrega&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm currently working as a Manager at a famous Macau law firm, responsible for operations control and overseeing all business units.
 - 📝 I have a portfolio website detailing my professional experiences [amiguelnobrega.github.io/portfolio](https://amiguelnobrega.github.io/portfolio/).
