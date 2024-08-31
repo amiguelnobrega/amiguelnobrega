@@ -6,10 +6,10 @@ I am a business bachelor, currently working in Macau, China as a law firm manage
 
 ## About Me
 
-- 🔭 I'm currently working as a Manager at a famous Macau law firm, responsible for operations control and overseeing all business units.
-- 📝 I have a portfolio website that also details my professional experiences [amiguelnobrega.github.io/portfolio](https://amiguelnobrega.github.io/portfolio/).
-- 🌐 I have been seeking knowledge in the analytics field through online training, and in my portfolio are a few examples of related projects.
-- ✍️ My completion certificates are also available on the website.
+- I'm a Manager at a famous Macau law firm, responsible for operations control and overseeing all business units.
+- I have a portfolio website that also details my professional experiences [amiguelnobrega.github.io/portfolio](https://amiguelnobrega.github.io/portfolio/).
+- I have been seeking knowledge in the analytics field, and in my portfolio are a few examples of related projects.
+- My completion certificates are also available on the website.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=github,mysql,py,vscode,wordpress)](https://skillicons.dev)
