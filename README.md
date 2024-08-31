@@ -1,4 +1,4 @@
-# Hi, I'm Miguel Nobrega! 👋
+# Hi, I'm Miguel Nobrega (孫中華)! 👋
 
 I am a business bachelor, currently working in Macau, China as a law firm manager, and driven by a curiosity for data analytics.
 
