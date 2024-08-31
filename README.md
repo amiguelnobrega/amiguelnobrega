@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Nobrega! 👋
 
-I am a business bachelor, currently working in Macau as a law firm manager, and driven by a curiosity for data analytics.
+I am a business bachelor, currently working in Macau, China as a law firm manager, and driven by a curiosity for data analytics.
 
 ![amiguelnobrega's Stats](https://github-readme-stats.vercel.app/api?username=amiguelnobrega&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
