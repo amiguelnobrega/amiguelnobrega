@@ -22,7 +22,7 @@ I am a business bachelor, working in Macau, China as a law firm manager, with a 
 
  ## 🏆 Achievements
 
-- Enrolled in the Google Advanced Data Analytics Certificate (August 2024)
+- 🌟 Google Advanced Data Analytics Certificate (2024)
 - 🌟 Completed the Google Project Management Certificate (2024)
 - 🌟 Completed the Google IT Support Certificate (2023)
 - 🌟 Completed the Google Digital Marketing and E-commerce Certificate (2023)
