@@ -31,3 +31,4 @@ I am a business bachelor, working in Macau, China as a law firm manager, with a 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/amiguelnobrega)
+- Data viz projects [Tableau]((https://public.tableau.com/app/profile/miguel.nobrega/vizzes))
