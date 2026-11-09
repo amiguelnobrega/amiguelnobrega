@@ -2,8 +2,6 @@
 
 I am a business bachelor, working in Macau, China as a law firm manager, with a keen interest in the data analytics field.
 
-![amiguelnobrega's Stats](https://github-readme-stats.vercel.app/api?username=amiguelnobrega&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## About Me
 
 - I'm a Manager at a famous Macau law firm, responsible for operations control and overseeing all business units.
